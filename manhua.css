@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(124, 129, 139);
+  height: 1500px;
+}
+
+
+#action-bar {
+  background-color:aliceblue;
+  height: 100px;
+}
+
+.containers {
+  height: 290px;
+  width: 220px;
+  background-color: aliceblue;
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+footer {
+  text-align: center;
+  background-color:aliceblue;
+  height: 160px;
+  color: rgb(119, 124, 135);
+  font-weight: 400;
+  font-family: Impact , sans-serif;
+  font-style: normal;
+  font-size: 22px;
+}
+
+#manhwa {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color:rgb(143, 143, 143);
+}
+
+#HomePage{
+  text-decoration: none;
+color:rgb(143, 143, 143);
+  font-size: 18px;
+font-weight: 500;
+}
+
+#who-made-me-princess {
+  background-image: url(who\ made\ me\ princess.jpg);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#babytyrant{
+  background-image: url(Baby_Tyrant_2.webp);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#kill-the-villainless {
+  background-image: url(kill\ the\ villainless.jpg);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+#i-am-queen-in-this-life{
+  background-image: url(sister-im-the-queen-in-this-life.webp);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 10px;
+}
+
+#why-realina-ended-up-at-duke-mansion{
+  background-image: url(the-reason-why-raeliana-ended-up-at-the-dukes-mansion.png);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#raised-by-villains{
+  background-image: url(Im-Being-Raised-by-Villains.jpg);
+  height: 310;
+  width: 220px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

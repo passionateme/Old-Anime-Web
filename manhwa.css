@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(119, 124, 135);
+  height: 1500px;
+}
+
+
+#action-bar {
+  background-color:aliceblue;
+  height: 100px;
+}
+
+.containers {
+  height: 310px;
+  width: 220px;
+  background-color: aliceblue;
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+footer {
+  text-align: center;
+  background-color:aliceblue;
+  height: 160px;
+  color: rgb(119, 124, 135);
+  font-weight: 400;
+  font-family: Impact , sans-serif;
+  font-style: normal;
+  font-size: 22px;
+}
+
+#manhwa {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color:burlywood;
+}

@@ -1,0 +1,88 @@
+html {
+  background-color: #2c2a2a;
+  height: 2500px;
+}
+section {
+  height: 100px;
+  background-color:rgb(0, 69, 138);
+}
+footer , #action-bar {
+  background-color:rgb(0, 69, 138);
+  height: 100px;
+}
+
+a{
+text-decoration: none;
+color: aliceblue;
+font-family: Helvetica, sans-serif;
+font-size: 18px;
+font-weight: 500;
+margin-left: 60px;
+text-decoration: solid;
+}
+
+#Trending{
+margin-left: 120px;
+}
+
+footer{
+  height: 100px;
+}
+
+.footer{
+  text-align: center;
+  text-transform: capitalize;      
+  font-family: monospace;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+
+.containers{
+  height:350px;
+  width: 250px;
+ margin-left:40px; 
+ margin-top: 30px;
+ margin-bottom: 30px;
+ background-color: aliceblue;
+ display: inline-block;
+}
+
+#attack-on-titan{
+  background-image: url(Attack_on_Titan_Season_1.webp);
+  height:350px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#black-butler{
+  background-image: url(black\ butler.jpg);
+  height:350px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#bsd{
+  background-image: url(bsd\ cover.webp);
+  height:350px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#tomo-chan-is-a-girl{
+  background-image: url(tomo\ is\ a\ girl.jpg);
+  height:350px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#loop-of-time{
+  background-image: url(7\ loop\ of\ time.jpg);
+  height:350px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
